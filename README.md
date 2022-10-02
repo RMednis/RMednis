@@ -1,16 +1,14 @@
-### Hi there 👋
+# Sveiki, esmu Reinis   <img src=https://i.imgur.com/0jDMof9.gif width=50px> 
+<img align='right' style="clip-path:circle();" src=https://i.imgur.com/Gozf9rp.png width=200px>
+Here you'll find some random little things i've worked on or am currently working on. 
 
-<!--
-**RMednis/RMednis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+There's everything from Node.js web apps, to little bash or python scripts, to full on Minecraft mods! :D
 
-Here are some ideas to get you started:
+I'm a part time:
+- Sysadmin 
+- Programmer
+- Software Translator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also currently a full time student, studying at [RTU](https://rtu.lv) in Riga, Latvia.
+
+If you want to contact me for whatever reason, head over [here](https://mednis.id.lv)... I don't bite!
